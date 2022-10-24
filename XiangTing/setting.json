@@ -1,0 +1,200 @@
+{
+    "PLCPort": "0",
+    "address": "7788,7789,7790,7791,7792",
+    "IPAddress": "192.168.1.201:23",
+    "DetecterType": "NaI",
+    "MCAType": "\u5317\u4eac\u6377\u521b\u6838\u4eea",
+    "ChannelNum": "1024",
+    "HighVoltage": "600",
+    "gain": "1",
+    "Lib": {
+        "Cs-137": {
+            "halfLife": 30,
+            "Energy": 661.7,
+            "probability": 94.6,
+            "type": ""
+        },
+        "Am-241": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Co-60": {
+            "halfLife": [
+                5.27,
+                5.27
+            ],
+            "Energy": [
+                1173.2,
+                1332.5
+            ],
+            "probability": [
+                99.88,
+                99.88
+            ],
+            "type": [
+                "",
+                ""
+            ]
+        },
+        "Co-57": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Na-22": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Eu-152": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Ba-133": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Ir-192": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Bi-207": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Se-79": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "U-233": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "U-235": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Np-237": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Pu-239": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Ga-67": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Tc-99m": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Pd-103": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "In-111": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "I-123": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "I-125": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "I-131": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Xe-133": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Cr-51": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Ti-201": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "K-40": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Ra-226": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "Th-232": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        },
+        "U-238": {
+            "halfLife": 470,
+            "Energy": 59.5,
+            "probability": 100,
+            "type": ""
+        }
+    },
+    "prominence": "60",
+    "Background": "200",
+    "Uncertainty": "0.2",
+    "calibChannel": "23,222,420,475",
+    "calibEnergy": "59.5,661.7,1173.2,1332.5",
+    "calibCPS": "0,900",
+    "calibDoserate": "0,10",
+    "selectedRadionuclides": "Cs-137,Co-60,Am-241"
+}
